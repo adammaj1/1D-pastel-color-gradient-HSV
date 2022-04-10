@@ -3,10 +3,21 @@
 * [Pastel color](https://en.wikipedia.org/wiki/Pastel_(color))
 * [color gradient](https://en.wikipedia.org/wiki/Color_gradient) 
 
+Here is 1D gradient implemented as a function: 
+
+```
+f(position) = hsv(h , pale(position), 1.0)
+```
+
+where 
+* h,s and v are channels of hsv color, each is in [0.0, 1.0] range
+* position is a floating point number in rang [0.0, 1.0]
+* pale function (lerp) changes range of saturation from [0.0, 1.0] to [0.0, 0.6] so the saturaion has only lower and intermediate value
 
 
-# Examples
 
+
+# Gradient types
 Gradient types:
 * General types
   * continous  
@@ -18,6 +29,7 @@ Gradient types:
   * diverging  
 
 
+# Examples
 ## HSV = [0.123, s, 1.0]
 
 
