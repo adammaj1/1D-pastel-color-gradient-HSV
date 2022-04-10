@@ -171,6 +171,27 @@ int GivePale_HSV_Color( const double h,  const double s, hsv* hsv_color){
 ```
 
 
+# How to run the progam ?
+
+Simply: 
+```
+  make
+```
+
+## Dependencies
+* bash
+* gcc
+* gnuplot
+* ImageMagic
+* GNU Make
+
+
+## source
+* h.c is a c console program for making txt and png files
+* h.sh is the bash script which runs c and gnuplot code
+* h.gp is the Gnuplot script for drawing png images (color profiles) from txt files
+* Makefile is a script for Gnu Make
+
 
 
 
@@ -216,5 +237,11 @@ then link the images:
 to overwrite: 
 
   git mv -f 
+  
+local repo
+  
+  ~/Dokumenty/color/hsv/src/pastel/p4
+  
+
 
 
