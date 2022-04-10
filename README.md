@@ -86,6 +86,10 @@ discrete
 
 ![](./images/0.246000_continous_diverging.png)
 
+![](./images/0.492000_continous_diverging.png)
+
+![](./images/0.000000_continous_diverging.png)
+
 # Name
 * tints (a mixture of a base color with white )
 * pale colors = increased lightness
