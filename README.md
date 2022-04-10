@@ -48,6 +48,38 @@ Gradient types:
 
 
 
+![](./images/0.123000_continous_no_RGB.png)
+
+![](./images/0.123000_continous_no_HSV.png)
+
+![](./images/0.123000_discrete_no_RGB.png)
+
+![](./images/0.123000_discrete_no_HSV .png)
+
+
+
+![](./images/0.123000_continous_steps_RGB.png)
+![](./images/0.123000_continous_steps_HSV.png)
+
+![](./images/0.123000_discrete_steps_RGB.png)
+![](./images/0.123000_discrete_steps_HSV.png)
+
+
+![](./images/0.123000_continous_tubes_RGB.png)
+![](./images/0.123000_continous_tubes_HSV.png)
+
+
+![](./images/0.123000_discrete_tubes_RGB.png)
+![](./images/0.123000_discrete_tubes_HSV.png)
+
+
+
+0.123000_continous_diverging  
+
+![](./images/0.123000_continous_diverging.png)
+
+![](./images/0.123000_discrete_diverging.png)
+
 
 
 # Name
