@@ -20,7 +20,32 @@ Gradient types:
 
 ## HSV = [0.123, s, 1.0]
 
+
+
+![](./images/0.123000_continous_no.png)
+
+![](./images/0.123000_discrete_no.png)
+
+
+![](./images/0.123000_continous_steps.png)
+
+![](./images/0.123000_discrete_steps.png)
+
+
+
+![](./images/0.123000_continous_tubes.png)
+
+![](./images/0.123000_discrete_tubes.png)
+
+
+
+0.123000_continous_diverging  
+
 ![](./images/0.123000_continous_diverging.png)
+
+![](./images/0.123000_discrete_diverging.png)
+
+
 
 
 
