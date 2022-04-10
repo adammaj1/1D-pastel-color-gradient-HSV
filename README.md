@@ -107,7 +107,7 @@ discrete
 
 General description
 * mix base color with white = heavily tinted with white = desaturated with white
-* [first generate a random color. Then we sature it a little and mix this color with white color](https://mdigi.tools/random-pastel-color/ random-pastel-color by Micro Digital Tools)
+* [first generate a random color. Then we sature it a little and mix this color with white color](https://mdigi.tools/random-pastel-color/) : random-pastel-color by Micro Digital Tools
 * in HSV. Take a hue. Desaturate the color a bit( = 80% saturation). Use 100% for value. 
 * in the HSV color space, have high value and low saturation
 
