@@ -77,7 +77,14 @@ discrete
 ![](./images/0.123000_discrete_tubes_rgb.png)
 ![](./images/0.123000_discrete_tubes_hsv.png)
 
+## other
 
+![](./images/0.000000_continous_tubes.png)
+
+![](./images/0.246000_continous_tubes.png)
+
+
+![](./images/0.246000_continous_diverging.png)
 
 # Name
 * tints (a mixture of a base color with white )
