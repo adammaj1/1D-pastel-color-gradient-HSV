@@ -4,6 +4,25 @@
 * [color gradient](https://en.wikipedia.org/wiki/Color_gradient) 
 
 
+
+# Examples
+
+Gradient types:
+* General types
+  * continous  
+  * discrete  
+* Joining types ( see also in [1D RGB gradient](https://github.com/adammaj1/1D-RGB-color-gradient/blob/main/README.md#continous-gradient-manipulations))
+  * no  
+  * steps  
+  * tubes  
+  * diverging  
+
+
+
+
+
+
+
 # Name
 * tints (a mixture of a base color with white )
 * pale colors = increased lightness
