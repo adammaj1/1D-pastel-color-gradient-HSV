@@ -86,7 +86,6 @@ discrete
 
 ![](./images/0.246000_continous_diverging.png)
 
-![](./images/0.738000_continous_diverging.png)
 
 ![](./images/0.000000_continous_diverging.png)
 
