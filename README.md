@@ -21,32 +21,38 @@ Gradient types:
 ## HSV = [0.123, s, 1.0]
 
 
+### no joining = simple 
 
+continous  
 ![](./images/0.123000_continous_no.png)
 
+discrete   
 ![](./images/0.123000_discrete_no.png)
 
+
+#### steps
 
 ![](./images/0.123000_continous_steps.png)
 
 ![](./images/0.123000_discrete_steps.png)
 
 
-
+### tubes
 ![](./images/0.123000_continous_tubes.png)
 
 ![](./images/0.123000_discrete_tubes.png)
 
 
 
-0.123000_continous_diverging  
+### diverging  
 
 ![](./images/0.123000_continous_diverging.png)
+
 
 ![](./images/0.123000_discrete_diverging.png)
 
 
-
+### Color channels profiles 
 
 ![](./images/0.123000_continous_no_rgb.png)
 
@@ -55,7 +61,6 @@ Gradient types:
 ![](./images/0.123000_discrete_no_rgb.png)
 
 ![](./images/0.123000_discrete_no_hsv .png)
-
 
 
 ![](./images/0.123000_continous_steps_rgb.png)
