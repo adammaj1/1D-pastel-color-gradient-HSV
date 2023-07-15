@@ -1,6 +1,7 @@
 
 # theory
 * [Pastel color](https://en.wikipedia.org/wiki/Pastel_(color))
+  * [dimmed pastel](https://github.com/nordtheme/nord) 
 * [color gradient](https://en.wikipedia.org/wiki/Color_gradient) 
 
 Here is 1D gradient implemented as a function: 
